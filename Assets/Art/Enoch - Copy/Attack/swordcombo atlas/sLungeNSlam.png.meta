@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: a3c1923793857f84eab5f7a10aa8fe9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5341166606145744715
+    second: sLungeNSlam_0
+  - first:
+      213: -1516795827399887568
+    second: sLungeNSlam_1
+  - first:
+      213: 5707666020881398523
+    second: sLungeNSlam_2
+  - first:
+      213: 914893066177650428
+    second: sLungeNSlam_3
+  - first:
+      213: 5480964606847857507
+    second: sLungeNSlam_4
+  - first:
+      213: 6842771274240372193
+    second: sLungeNSlam_5
+  - first:
+      213: 8136312019814712549
+    second: sLungeNSlam_6
+  - first:
+      213: -5188464165053611950
+    second: sLungeNSlam_7
+  - first:
+      213: 5055926224142833049
+    second: sLungeNSlam_8
+  - first:
+      213: 5704210052279154505
+    second: sLungeNSlam_9
+  - first:
+      213: -639141915811437772
+    second: sLungeNSlam_10
+  - first:
+      213: -3736217795911482488
+    second: sLungeNSlam_11
+  - first:
+      213: 6689092745002100936
+    second: sLungeNSlam_12
+  - first:
+      213: -8935055795770398967
+    second: sLungeNSlam_13
+  - first:
+      213: 7359113251241832597
+    second: sLungeNSlam_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 235
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sLungeNSlam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0118a354d50e5b0800000000000000
+      internalID: -5341166606145744715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4096
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f8073b3243fae0800000000000000
+      internalID: -1516795827399887568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_2
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 4096
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf3376104b53f40800000000000000
+      internalID: 5707666020881398523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe9cf8756a52bc00800000000000000
+      internalID: 914893066177650428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_4
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3072
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363b7a1454c401c40800000000000000
+      internalID: 5480964606847857507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_5
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3072
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed2858283866fe50800000000000000
+      internalID: 6842771274240372193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e40cca8cacf9e070800000000000000
+      internalID: 8136312019814712549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_7
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2048
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250c220e45fdef7b0800000000000000
+      internalID: -5188464165053611950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_8
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2048
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9959d980d124a2640800000000000000
+      internalID: 5055926224142833049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947bf4202dc692f40800000000000000
+      internalID: 5704210052279154505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_10
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1024
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4332ffa50df4127f0800000000000000
+      internalID: -639141915811437772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_11
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1024
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883043fb5b9462cc0800000000000000
+      internalID: -3736217795911482488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c82e77496e64dc50800000000000000
+      internalID: 6689092745002100936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_13
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9076fccf71e400480800000000000000
+      internalID: -8935055795770398967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sLungeNSlam_14
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 1700
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.364, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590b3220382d02660800000000000000
+      internalID: 7359113251241832597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sLungeNSlam_5: 6842771274240372193
+      sLungeNSlam_6: 8136312019814712549
+      sLungeNSlam_9: 5704210052279154505
+      sLungeNSlam_12: 6689092745002100936
+      sLungeNSlam_14: 7359113251241832597
+      sLungeNSlam_1: -1516795827399887568
+      sLungeNSlam_0: -5341166606145744715
+      sLungeNSlam_8: 5055926224142833049
+      sLungeNSlam_11: -3736217795911482488
+      sLungeNSlam_4: 5480964606847857507
+      sLungeNSlam_10: -639141915811437772
+      sLungeNSlam_3: 914893066177650428
+      sLungeNSlam_2: 5707666020881398523
+      sLungeNSlam_7: -5188464165053611950
+      sLungeNSlam_13: -8935055795770398967
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
