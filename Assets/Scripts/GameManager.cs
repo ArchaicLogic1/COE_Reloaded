@@ -44,6 +44,7 @@ public class GameManager : MonoBehaviour
     }
     void Start()
     {
+        gameState = GameState.InGame;
         playerHealth = 1000;
         maxHealth = 1000;
         // EnablePlayerController();
