@@ -74,7 +74,7 @@ public class GameManager : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        Timer.text = Time.time.ToString("HH:mm:ss");
+       // Timer.text = Time.time.ToString("HH:mm:ss");
     }
     void StartGame()
     {

@@ -66,7 +66,7 @@ public class OpenChest : MonoBehaviour
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
-        GameInputManager.interact.performed -= OpenDaChest;
+      //  GameInputManager.interact.performed -= OpenDaChest;
         interactTell.SetActive(false);
     }
     public void OpenDaChest(InputAction.CallbackContext context)
