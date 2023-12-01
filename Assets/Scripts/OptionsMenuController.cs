@@ -10,10 +10,11 @@ public class OptionsMenuController : MonoBehaviour
     [SerializeField] TMP_Dropdown resolutionDropdown;
     [SerializeField] AudioMixer mainAudioMixer;
     Resolution[] resolutions;
-    
+    GameObject OptionsMenu;
     private void Start()
     {
         SetResolutionDropdown();
+        OptionsMenu = gameObject;
     }
 
     private void SetResolutionDropdown()
@@ -60,7 +61,10 @@ public class OptionsMenuController : MonoBehaviour
     {
         Screen.fullScreen = isFullScreen;
     }
-
+    public void BackButton()
+    {
+        OptionsMenu.SetActive(false);
+    }
 
 
 

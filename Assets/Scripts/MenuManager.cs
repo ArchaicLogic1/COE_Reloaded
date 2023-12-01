@@ -26,7 +26,7 @@ public class MenuManager: MonoBehaviour
     public GameObject   CurrentMenu,previousMenu;
     bool GameStarted = false;
   
-    AudioSource myAudioSource;
+   [SerializeField] AudioSource myAudioSource;
     public delegate void PlayeButtonPressed();
     public static PlayeButtonPressed onPlayButtonPressed;
 
@@ -64,9 +64,9 @@ public class MenuManager: MonoBehaviour
     {
         playButton.onClick.AddListener(StartGame);
         optionsButton.onClick.AddListener(OpenOptionsMenu);
-        leaderBoardButton.onClick.AddListener(OpenLeaderBoard);
+       // leaderBoardButton.onClick.AddListener(OpenLeaderBoard);
         optionsBackButton.onClick.AddListener(OpenPreviousMenu);
-        leaderBoardBackButton.onClick.AddListener(OpenPreviousMenu);
+      //  leaderBoardBackButton.onClick.AddListener(OpenPreviousMenu);
         PauseMenuManager.onOptionsClick += OpenOptionsMenu;
     }
     void CloseTitleMenu()
@@ -77,7 +77,7 @@ public class MenuManager: MonoBehaviour
     void  StartGame()
     {
         // close title menu start game 
-        myAudioSource.PlayOneShot(menuSfx[2]);
+          myAudioSource.PlayOneShot(menuSfx[2]);
         Debug.Log("play sword clangg in menuManager");
         GameStarted = true;
        AssistantToTheSceneManager.instance.loadGame();
